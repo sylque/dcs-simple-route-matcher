@@ -1,6 +1,6 @@
 Package.describe({
   name: 'sylque:dcs-simple-route-matcher',
-  version: '0.0.1',
+  version: '0.0.2',
   // Brief, one-line summary of the package.
   summary:
     'A Meteor package to match an application route with a Docuss page name',
