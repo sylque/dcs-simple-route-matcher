@@ -1,0 +1,1 @@
+import './pathname-ids-server'
