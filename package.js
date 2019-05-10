@@ -14,6 +14,6 @@ Package.describe({
 Package.onUse(function(api) {
   api.versionsFrom('1.8.1')
   api.use('ecmascript')
-  api.mainModule('main-client.js', 'client')
-  api.mainModule('main-server.js', 'server')
+  api.mainModule('lib/main-client.js', 'client')
+  api.mainModule('lib/main-server.js', 'server')
 })

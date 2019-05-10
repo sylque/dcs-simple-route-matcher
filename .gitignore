@@ -1,5 +1,7 @@
 /*
+!lib
 !.gitignore
-!*.js
+!.versions
+!package.js
 !README.md
 
