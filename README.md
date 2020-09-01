@@ -5,6 +5,8 @@ A Meteor package to match an application route with a
 
 The application route is identified by the pathname of its url.
 
+**This project is not active anymore.** Fixes are provided to existing users, but I stopped working on new features. You might want to check  [DiscPage](https://github.com/sylque/discpage), which is somehow a simplified version of Docuss.
+
 ## Installation
 
 ```
